@@ -14,9 +14,10 @@ Day-01-Two-Sum/
 ├── solution.py
 └── README.md
 
+
 - `solution.py` – accepted solution  
 - `README.md` – short explanation of the approach
-- 
+
 ## Progress
 
 - Day 01 – Two Sum ✅
