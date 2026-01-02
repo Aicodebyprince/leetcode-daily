@@ -12,7 +12,7 @@ Each problem is stored in a separate folder:
 
 Day-01-Two-Sum/
 ├── solution.py
-└── README.md
+|── README.md
 
 
 - `solution.py` – accepted solution  
