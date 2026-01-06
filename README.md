@@ -24,6 +24,7 @@ Day-01-Two-Sum/
 - Day 02 - Longest Common Prefix ✅
 - Day 03 - Add Two numbers ✅
 - Day 04 - Remove Duplicates from Sorted Array ✅
+- Day 05 - Remove Element ✅
 
 ---
 
