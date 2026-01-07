@@ -1,44 +1,51 @@
 # LeetCode Practice
 
-This repository contains my daily LeetCode practice problems.
+This repository contains my daily LeetCode problem-solving practice.
 
-I am solving problems regularly to improve my understanding of data structures, algorithms, and problem-solving skills.
+I use this repository to improve my understanding of data structures, algorithms, and problem-solving techniques by solving problems consistently and documenting my approach.
 
 ---
 
-## Structure
+## 📁 Repository Structure
 
-Each problem is stored in a separate folder:
+Each problem is organized in a separate folder by day:
 
 Day-01-Two-Sum/
 ├── solution.py
 |── README.md
 
-
-- `solution.py` – accepted solution  
-- `README.md` – short explanation of the approach
-
-## Progress
-
-- Day 01 – Two Sum ✅
-- Day 02 - Longest Common Prefix ✅
-- Day 03 - Add Two numbers ✅
-- Day 04 - Remove Duplicates from Sorted Array ✅
-- Day 05 - Remove Element ✅
-- Day 06 - Search Insert Position ✅
+- `solution.py` contains the accepted solution  
+- `README.md` explains the approach and complexity  
 
 ---
 
-## Goal
+## ✅ Progress Tracker
 
-- Practice consistently  
-- Write clean and understandable code  
-- Learn efficient problem-solving techniques  
+- Day 01 – Two Sum ✅  
+- Day 02 – Longest Common Prefix ✅  
+- Day 03 – Add Two Numbers ✅  
+- Day 04 – Remove Duplicates from Sorted Array ✅  
+- Day 05 – Remove Element ✅  
+- Day 06 – Search Insert Position ✅  
 
 ---
 
-## Note
+## 🎯 Goals
 
-This repository is for learning and practice purposes.
+- Build consistency in problem solving  
+- Strengthen understanding of DSA fundamentals  
+- Write clean and readable code  
+- Improve time and space complexity thinking  
+
+---
+
+## 📝 Notes
+
+- Problems are solved after understanding the logic  
+- Solutions focus on clarity and correctness  
+- This repository is maintained for learning and practice  
+
+---
 
 Happy coding 🙂
+
