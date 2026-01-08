@@ -26,7 +26,8 @@ Day-01-Two-Sum/
 - Day 03 – Add Two Numbers ✅  
 - Day 04 – Remove Duplicates from Sorted Array ✅  
 - Day 05 – Remove Element ✅  
-- Day 06 – Search Insert Position ✅  
+- Day 06 – Search Insert Position ✅
+- Day 07 - Plus One ✅
 
 ---
 
