@@ -28,6 +28,7 @@ Day-01-Two-Sum/
 - Day 05 – Remove Element ✅  
 - Day 06 – Search Insert Position ✅
 - Day 07 - Plus One ✅
+- Day 08 - Merge Sorted Array ✅
 
 ---
 
