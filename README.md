@@ -32,6 +32,7 @@ Day-01-Two-Sum/
 - Day 09 - Conatiner With Most Water ✅
 - Day 10 - Convert Sorted Array to Binary ✅
 - Day 11 - Pascal's Triangle ✅
+- Day 12 - Pascal's Triangle 2 ✅
   
 ---
 
