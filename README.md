@@ -34,6 +34,7 @@ Day-01-Two-Sum/
 - Day 11 - Pascal's Triangle ✅
 - Day 12 - Pascal's Triangle 2 ✅
 - Day 13 - Single Number ✅ 
+
   
 ---
 
@@ -44,7 +45,9 @@ Day-01-Two-Sum/
 - Write clean and readable code  
 - Improve time and space complexity thinking  
 
+
 ---
+
 
 ## 📝 Notes
 
