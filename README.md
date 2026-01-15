@@ -33,7 +33,8 @@ Day-01-Two-Sum/
 - Day 10 - Convert Sorted Array to Binary ✅
 - Day 11 - Pascal's Triangle ✅
 - Day 12 - Pascal's Triangle 2 ✅
-- Day 13 - Single Number ✅ 
+- Day 13 - Single Number ✅
+- Day 14 - Move Zeroes ✅
 
   
 ---
