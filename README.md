@@ -35,6 +35,7 @@ Day-01-Two-Sum/
 - Day 12 - Pascal's Triangle 2 ✅
 - Day 13 - Single Number ✅
 - Day 14 - Move Zeroes ✅
+- Day 15 - 3Sum ✅
 
   
 ---
