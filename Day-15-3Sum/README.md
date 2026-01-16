@@ -36,4 +36,4 @@ Duplicates are skipped carefully to ensure only unique triplets are added.
 ---
 
 ## Key Learning
-Sorting combined with the two-pointer technique helps efficiently solve multi-sum problems while avoid
+Sorting combined with the two-pointer technique helps efficiently solve multi-sum problems while avoiding duplicates.
