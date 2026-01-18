@@ -37,7 +37,7 @@ Day-01-Two-Sum/
 - Day 14 - Move Zeroes ✅
 - Day 15 - 3Sum ✅
 - Day 16 - 3Sum Closest ✅
-
+- Day 17 - Majority Element ✅
   
 ---
 
