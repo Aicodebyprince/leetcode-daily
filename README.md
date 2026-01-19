@@ -38,6 +38,7 @@ Day-01-Two-Sum/
 - Day 15 - 3Sum ✅
 - Day 16 - 3Sum Closest ✅
 - Day 17 - Majority Element ✅
+- Day 18 - Search in Rotated Sorted Array ✅
   
 ---
 
