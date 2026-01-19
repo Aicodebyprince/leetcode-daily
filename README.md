@@ -6,7 +6,7 @@ I use this repository to improve my understanding of data structures, algorithms
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 Each problem is organized in a separate folder by day:
 
