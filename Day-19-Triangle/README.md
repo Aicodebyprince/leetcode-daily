@@ -36,3 +36,6 @@ This avoids recomputation and uses only one extra array.
 - Space Complexity: O(n)
 
 ---
+
+## Key Learning
+Bottom-up dynamic programming helps solve path problems efficiently using minimal extra space.
