@@ -4,9 +4,7 @@
 Given a Roman numeral string, convert it into an integer.
 
 Roman numerals usually add values from left to right, but subtraction is used when a smaller value comes before a larger one.
-
 ---
-
 ## Approach
 I used a dictionary to map Roman symbols to their integer values.
 
