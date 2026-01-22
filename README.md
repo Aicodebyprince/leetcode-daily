@@ -40,6 +40,7 @@ Day-01-Two-Sum/
 - Day 17 - Majority Element ✅
 - Day 18 - Search in Rotated Sorted Array ✅
 - Day 19 - Triangle ✅
+- Day 20 - Roman to Integer ✅
   
 ---
 
