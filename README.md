@@ -42,6 +42,7 @@ Day-01-Two-Sum/
 - Day 19 - Triangle ✅
 - Day 20 - Roman to Integer ✅
 - Day 21 - Valid Parentheses ✅
+- Day 22 - Length of Last Word ✅
   
 ---
 
