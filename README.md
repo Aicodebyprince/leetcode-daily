@@ -43,6 +43,7 @@ Day-01-Two-Sum/
 - Day 20 - Roman to Integer ✅
 - Day 21 - Valid Parentheses ✅
 - Day 22 - Length of Last Word ✅
+- Day 23 - Add Binary ✅
   
 ---
 
