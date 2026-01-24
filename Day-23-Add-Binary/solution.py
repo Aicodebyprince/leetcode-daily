@@ -4,7 +4,6 @@ class Solution(object):
         j = len(b) - 1
         carry = 0
         result = []
-
         while i >= 0 or j >= 0 or carry:
             total = carry
 
