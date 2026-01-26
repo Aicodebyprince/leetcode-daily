@@ -2,7 +2,6 @@ class Solution(object):
     def isIsomorphic(self, s, t):
         map_s_to_t = {}
         map_t_to_s = {}
-
         for i in range(len(s)):
             c1 = s[i]
             c2 = t[i]
