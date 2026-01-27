@@ -46,6 +46,7 @@ Day-01-Two-Sum/
 - Day 23 - Add Binary ✅
 - Day 24 - Valid Palindrome ✅
 - Day 25 - Isomorphic Strings ✅
+- Day 26 - Integer to Roman ✅
   
 ---
 
