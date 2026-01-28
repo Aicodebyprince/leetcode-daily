@@ -37,6 +37,5 @@ This allows correct evaluation of nested expressions.
 
 ---
 
-##_attach
-Key Learning
+## Key Learning
 Stack-based evaluation helps handle parentheses and sign changes efficiently in expression parsing.
