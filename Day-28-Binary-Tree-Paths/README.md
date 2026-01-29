@@ -6,7 +6,6 @@ Given a binary tree, return all root-to-leaf paths.
 A path is defined as a sequence of node values from the root node to a leaf node.
 
 ---
-
 ## Approach
 I used Depth First Search (DFS).
 
@@ -14,7 +13,6 @@ Starting from the root, I build the path as a string.
 When a leaf node is reached, the current path is added to the result list.
 
 DFS naturally explores all root-to-leaf paths.
-
 ---
 
 ## Example
