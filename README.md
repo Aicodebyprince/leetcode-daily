@@ -48,6 +48,7 @@ Day-01-Two-Sum/
 - Day 25 - Isomorphic Strings ✅
 - Day 26 - Integer to Roman ✅
 - Day 27 - Basic Calculator ✅
+- Day 28 - Binary Tree Paths ✅
   
 ---
 
