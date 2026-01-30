@@ -49,6 +49,7 @@ Day-01-Two-Sum/
 - Day 26 - Integer to Roman ✅
 - Day 27 - Basic Calculator ✅
 - Day 28 - Binary Tree Paths ✅
+- Day 29 - Regular Expression Matching ✅
   
 ---
 
