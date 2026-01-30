@@ -39,3 +39,5 @@ true
 - Space Complexity: O(m × n)
 
 ---
+## Key Learning
+Dynamic programming is essential for handling overlapping subproblems in complex pattern matching.
