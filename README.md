@@ -50,6 +50,7 @@ Day-01-Two-Sum/
 - Day 27 - Basic Calculator ✅
 - Day 28 - Binary Tree Paths ✅
 - Day 29 - Regular Expression Matching ✅
+- Day 30 - Word Search ✅
   
 ---
 
