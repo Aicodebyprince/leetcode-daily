@@ -51,6 +51,7 @@ Day-01-Two-Sum/
 - Day 28 - Binary Tree Paths ✅
 - Day 29 - Regular Expression Matching ✅
 - Day 30 - Word Search ✅
+- Day 31 - Find the Index of the First Occurrence ✅
   
 ---
 
