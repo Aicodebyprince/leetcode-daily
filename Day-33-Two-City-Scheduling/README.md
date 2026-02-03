@@ -2,7 +2,6 @@
 
 ## Problem
 Given the cost of flying each person to two cities, assign exactly half the people to each city with minimum total cost.
-
 ---
 
 ## Approach
@@ -14,7 +13,6 @@ After sorting by this difference, the first half are sent to city A and the rema
 This ensures the overall minimum cost.
 
 ---
-
 ## Example
 
 **Input:**
