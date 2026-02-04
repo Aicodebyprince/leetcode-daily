@@ -4,7 +4,6 @@
 Given two binary trees, determine if they are structurally identical and have the same node values.
 
 ---
-
 ## Approach
 I used recursion to compare the trees.
 
@@ -16,7 +15,6 @@ At each node:
 If any mismatch occurs, the trees are not the same.
 
 ---
-
 ## Example
 
 **Input:**
