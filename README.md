@@ -54,6 +54,7 @@ Day-01-Two-Sum/
 - Day 31 - Find the Index of the First Occurrence ✅
 - Day 32 - ZigZag Conversion ✅
 - Day 33 - Two City Scheduling ✅
+- Day 34 - Same Tree ✅
   
 ---
 
