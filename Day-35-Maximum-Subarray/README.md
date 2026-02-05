@@ -22,7 +22,6 @@ The maximum sum encountered during the traversal is the answer.
 
 **Output:**
 6
-
 ---
 
 ## Complexity
