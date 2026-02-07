@@ -55,7 +55,8 @@ Day-01-Two-Sum/
 - Day 32 - ZigZag Conversion ✅
 - Day 33 - Two City Scheduling ✅
 - Day 34 - Same Tree ✅
-- Day 35 - Maximum Subarray ✅ 
+- Day 35 - Maximum Subarray ✅
+- Day 36 - Remove Duplicates from Sorted Array ✅
 ---
 
 ## 🎯 Goals
