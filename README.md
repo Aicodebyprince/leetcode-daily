@@ -57,6 +57,7 @@ Day-01-Two-Sum/
 - Day 34 - Same Tree ✅
 - Day 35 - Maximum Subarray ✅
 - Day 36 - Remove Duplicates from Sorted Array ✅
+- Day 37 - Rotate Array ✅
 ---
 
 ## 🎯 Goals
