@@ -58,6 +58,7 @@ Day-01-Two-Sum/
 - Day 35 - Maximum Subarray ✅
 - Day 36 - Remove Duplicates from Sorted Array ✅
 - Day 37 - Rotate Array ✅
+- Day 38 - Best Time to Buy and Sell Stock ✅
 ---
 
 ## 🎯 Goals
