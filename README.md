@@ -60,6 +60,7 @@ Day-01-Two-Sum/
 - Day 37 - Rotate Array ✅
 - Day 38 - Best Time to Buy and Sell Stock ✅
 - Day 39 - Best Time to Buy and Sell Stock-2 ✅
+- Day 40 - Is Subsequence ✅
 ---
 
 ## 🎯 Goals
